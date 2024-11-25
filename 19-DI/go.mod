@@ -1,4 +1,4 @@
-module github.com/devfullcycle/19-DI
+module github.com/josesmar/19-DI
 
 go 1.19
 

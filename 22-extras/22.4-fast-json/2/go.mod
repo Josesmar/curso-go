@@ -1,4 +1,4 @@
-module github.com/devfullcycle/curso-go/fast-json
+module github.com/josesmar/curso-go/fast-json
 
 go 1.21.3
 

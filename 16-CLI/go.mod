@@ -1,4 +1,4 @@
-module github.com/devfullcycle/16-CLI
+module github.com/josesmar/16-CLI
 
 go 1.19
 

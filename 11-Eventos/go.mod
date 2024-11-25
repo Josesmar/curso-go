@@ -1,4 +1,4 @@
-module github.com/devfullcycle/fcutils
+module github.com/josesmar/fcutils
 
 go 1.19
 

@@ -1,4 +1,4 @@
-module github.com/devfullcycle/goexpert/7-Packaging/3/sistema
+module github.com/josesmar/goexpert/7-Packaging/3/sistema
 
 go 1.19
 

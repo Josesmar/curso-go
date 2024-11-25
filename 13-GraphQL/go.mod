@@ -1,4 +1,4 @@
-module github.com/devfullcycle/13-GraphQL
+module github.com/josesmar/13-GraphQL
 
 go 1.19
 

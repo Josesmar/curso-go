@@ -1,4 +1,4 @@
-module github.com/devfullcycle/15-UploadS3
+module github.com/josesmar/15-UploadS3
 
 go 1.19
 

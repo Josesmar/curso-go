@@ -1,4 +1,4 @@
-module github.com/devfullcycle/goexpert/9-APIS
+module github.com/josesmar/goexpert/9-APIS
 
 go 1.19
 

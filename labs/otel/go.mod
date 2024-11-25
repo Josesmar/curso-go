@@ -1,4 +1,4 @@
-module github.com/devfullcycle/curso-go/labs/open-telemetry
+module github.com/josesmar/curso-go/labs/open-telemetry
 
 go 1.21.3
 
