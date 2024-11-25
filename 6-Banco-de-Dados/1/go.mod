@@ -1,4 +1,4 @@
-module github.com/devfullcycle/goexpert/6/1
+module github.com/josesmar/goexpert/6/1
 
 go 1.19
 

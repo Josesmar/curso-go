@@ -1,4 +1,4 @@
-module github.com/devfullcycle/17-SQLC
+module github.com/josesmar/17-SQLC
 
 go 1.19
 

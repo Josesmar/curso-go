@@ -1,4 +1,4 @@
-module github.com/devfullcycle/curso-go/fsnotify
+module github.com/josesmar/curso-go/fsnotify
 
 go 1.21.3
 
