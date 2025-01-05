@@ -1,4 +1,4 @@
-version: '3'
+
 services:
   jaeger-all-in-one:
     image: jaegertracing/all-in-one:latest
@@ -15,7 +15,7 @@ services:
       - "9411:9411"
 
   prometheus:
-    container_name: prometheus
+    container_name: prometheus2
     image: prom/prometheus:latest
     restart: always
     volumes:

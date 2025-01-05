@@ -9,7 +9,7 @@ import (
 	"os/signal"
 	"time"
 
-	"github.com/devfullcycle/microservices-demo/internal/web"
+	"github.com/josesmar/microservices-demo/internal/web"
 	"github.com/spf13/viper"
 
 	"google.golang.org/grpc"
@@ -63,7 +63,6 @@ func initProvider(serviceName, collectorURL string) (func(context.Context) error
 	return tracerProvider.Shutdown, nil
 }
 
-// load env vars cfg
 func init() {
 	viper.AutomaticEnv()
 }
